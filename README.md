@@ -7,3 +7,4 @@ Finished
 * Vaultsuit
 * Leather Armor
 * Mark II Leather Armor
+* 1950s Style Casual 1 & 2
